@@ -1,0 +1,2 @@
+#!/bin/bash
+head tail -n 3* iacta
